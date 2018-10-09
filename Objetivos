@@ -9,7 +9,7 @@ Objetivos minimos:
                           É open source
                           Sendo o winodws mais popular o linux por norma é mais seguro, pois pessoas tem menos expericencia e informação e avontade nele.
                           
-                    Base de dados: Firebase or MySQL
+                    Base de dados: Firebase or MySQL or mariaDB
                     
                       // Razoes para usar firebase:
                           Firebase é mais facil de usar com java e php.
@@ -17,6 +17,12 @@ Objetivos minimos:
                       //Razoes para usar mySQL em vez de firebase:
                            Tem melhor desempenho e tudo mesmo que o Firebase, apesar de ser muito mais complicado e muito tempo de pesquisa para usar com java
                            
+                      //Razoes para usar a mariaDB:
+                           Open source
+                           Boa performace
+                           Comunidade online muito pro ativa
+                           BILLING INSERIR AQUI
+                   
                     Back Office: 
                       Tem de deixar o utilizador dela criar e eliminar contas para o website e app, basicamente inserir esses dados na base de dados
                       
@@ -49,7 +55,8 @@ Objetivos medios:
               O website e o sistema de ranking sera mais evoluido e gamificado basicamente teria mais um vertente como se fosse um jogo onde os alunos
               por cada determinada avaliação teria um determinada avaliação que os levantava no ranking da escola como nos objetivos basicos mas teria tudo uma vertente mais virada para como se fosse um jogo
               onde os alunos iriam ser dividos por ranks e tudo teria mais um estilo como se fosse um jogo.
-
+              Implementar uma area onde os professores fazem perguntas aos alunos sobre as aulas apra que eles consigam avaliações e pontuações extra
 Objetivos avançados:
 
-            
+            Implementar este projeto com a escola e ser usado pelos professores.
+            Conseguir com que os alunos pudessem fazer as suas auto avalia
