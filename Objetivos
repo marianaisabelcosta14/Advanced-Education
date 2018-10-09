@@ -1,14 +1,37 @@
 Objetivos minimos:
 
                 1.Criar um servidor com base de dados e back office e Apache
-                    Sisteam operativo: Linux
+                    Sistema operativo: Linux
+                      // Razoes para usar Linux em vez de Windows:
+                          É mais leve
+                          É mais facil de adaptar o sistema operativo ao utilizador
+                          É mais personalizavel que o windows
+                          É open source
+                          Sendo o winodws mais popular o linux por norma é mais seguro, pois pessoas tem menos expericencia e informação e avontade nele.
+                          
                     Base de dados: Firebase or MySQL
-                    Back Office: Tem de deixar o utilizador dela criar e eliminar contas para o website e app, basicamente inserir esses dados na base de dados
+                    
+                      // Razoes para usar firebase:
+                          Firebase é mais facil de usar com java e php.
+                          
+                      //Razoes para usar mySQL em vez de firebase:
+                           Tem melhor desempenho e tudo mesmo que o Firebase, apesar de ser muito mais complicado e muito tempo de pesquisa para usar com java
+                           
+                    Back Office: 
+                      Tem de deixar o utilizador dela criar e eliminar contas para o website e app, basicamente inserir esses dados na base de dados
+                      
                 2. Criar um website e aplicação móvel
-                    Objetivos minimos do website:
-                        
+                
+                      Objetivos minimos do website:
+                            
+                            
                     Objetivos minimos da app:
+                    
+                           Deixar os utiliazdores quer alunos quer professores consultar as estaticas,horarios e disciplinas que tem,
+                           enquanto atualizadas quando a app estiver online pelo servidor
+                           
                 3. Conectar a base de dados com o website e app
+                
                 
 Objetivos medios
 
