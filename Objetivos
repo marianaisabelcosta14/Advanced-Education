@@ -24,15 +24,29 @@ Objetivos minimos:
                 
                       Objetivos minimos do website:
                             
+                            Ligar o site a base de dados e ao se atualizar dados no site seram dados tb atualizados na base de dados e app
+                            Todos os utilizadores conseguirem consultar os seus horarios,disiciplinas e turmas e estaticias.
+                            Professores conseguirem editar e avaliar os alunos nas aulas atraves do site.
                             
                     Objetivos minimos da app:
                     
-                           Deixar os utiliazdores quer alunos quer professores consultar as estaticas,horarios e disciplinas que tem,
-                           enquanto atualizadas quando a app estiver online pelo servidor
-                           
+                            Ligar o site a base de dados e ao se atualizar dados no site seram dados tb atualizados na base de dados e app
+                            Todos os utilizadores conseguirem consultar os seus horarios,disiciplinas e turmas e estaticias.
+                            
                 3. Conectar a base de dados com o website e app
                 
+                *inserir aqui esquema do website e da app*
+                *inserir base de dados estrutura*
+                *inserir sites de onde retirei a informação para algumas destas justificações*
+                *elaborar mais as jsutificações e explicar melhor alguns aspectos para conseguir encontrar melhor soluções tais como a da base de daods que vamos usar
+                e o que iremos mais precisar no servidor e que espaço e meemoria vamos consumir*
                 
-Objetivos medios
+                
+
+Objetivos medios:
+
+              Objetivos da app seriam mais elevados onde os professores tambem puderiam fazer essa avaliação e edição das avaliações na app
+              O website e o sistema de ranking sera mais evoluido e gamificado basicamente teria mais um vertente como se fosse um jogo onde os alunos
+              por cada determinada avaliação 
 
 Objetivos avançados
