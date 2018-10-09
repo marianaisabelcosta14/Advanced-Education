@@ -1,5 +1,15 @@
-Objetivos minimos
+Objetivos minimos:
 
+                1.Criar um servidor com base de dados e back office e Apache
+                    Sisteam operativo: Linux
+                    Base de dados: Firebase or MySQL
+                    Back Office: Tem de deixar o utilizador dela criar e eliminar contas para o website e app, basicamente inserir esses dados na base de dados
+                2. Criar um website e aplicação móvel
+                    Objetivos minimos do website:
+                        
+                    Objetivos minimos da app:
+                3. Conectar a base de dados com o website e app
+                
 Objetivos medios
 
 Objetivos avançados
