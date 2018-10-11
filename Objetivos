@@ -30,16 +30,16 @@ Objetivos minimos:
                 
                       Objetivos minimos do website:
                             
-                            Ligar o site a base de dados e ao se atualizar dados no site seram dados tb atualizados na base de dados e app
-                            Todos os utilizadores conseguirem consultar os seus horarios,disiciplinas e turmas e estaticias.
-                            Professores conseguirem editar e avaliar os alunos nas aulas atraves do site.
+                            Ligar o site a base de dados e ao atualizar os dados no site seram também atualizados na base de dados e na app
+                            Todos os utilizadores conseguirem consultar os seus horarios, disiciplinas, turmas e estaticias.
+                            Os Professores conseguirem editar e avaliar os alunos nas aulas atraves do site.
                             
                             Funcionalidades:
                             
                               1. Estar conectado a base de dados do servidor e fazer troca de dados;
-                              2. Ter a possibilidade dos professores em sala de aula avaliarem os alunos em 5 ou menos cliques;
-                              4. Ter a possibilidade dos professores editarem notas dos alunos alunos em 5 ou menos cliques;
-                              5. Os professores e alunos conseguriem vizualizar a estatiticas/notas dadas em todas as vertentes em cada aula em particualar, tambem as estatisticas em geral de cada disciplina e as estatisticas em geral de todo o desempenho de cada aluno;
+                              2. Ter a possibilidade dos professores em sala de aula avaliarem os alunos com 5 ou menos cliques;
+                              4. Ter a possibilidade dos professores editarem notas dos alunos alunos com 5 ou menos cliques;
+                              5. Os professores e alunos conseguriem vizualizar as estatiticas/notas dadas em todas as vertentes de cada aula em particualar, tambem as estatisticas em geral de cada disciplina e as estatisticas em geral de todo o desempenho de cada aluno;
                               6. Tanto os professores e os alunos conseguirem ver os seus horários.
                               7. Um sistema de ranking onde os alunos ao serem avaliados iria serlhes atribuido pontuações consoatne a sua avaliação, e essas sua pontuação iria sendo atualizada sempre que o aluno fosse avaliado.
                               
@@ -79,10 +79,10 @@ Objetivos medios:
               
               Objetivos medios da app:
                 1. Os professores iráo poder fazer avaliação e edição na app
-                
+                2. 
               
               Objetivos medios do website:
-              1. Evoluir o sistema de ranking (Inserir rankeds ou divisões para cada tipo de pontuação, borders/banners para cada ranked e top10)
+              1. Evoluir o sistema de ranking (implementação de um sistema de avaliação onde os alunos podem subir no ranking da escola)
               2. Evoluir o Website (
               3. 
               
