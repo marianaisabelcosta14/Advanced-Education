@@ -39,7 +39,7 @@ Objetivos minimos:
                               1. Estar conectado a base de dados do servidor e fazer troca de dados;
                               2. Ter a possibilidade dos professores em sala de aula avaliarem os alunos em 5 ou menos cliques;
                               4. Ter a possibilidade dos professores editarem notas dos alunos alunos em 5 ou menos cliques;
-                              5. Os professores e alunos conseguriem verem a estatiticas/notas dadas em todas as vertentes em cada aula em particualar, tambem as estatisticas em geral de cada disciplina e as estatisticas em geral de todo o desempenho de cada aluno;
+                              5. Os professores e alunos conseguriem vizualizar a estatiticas/notas dadas em todas as vertentes em cada aula em particualar, tambem as estatisticas em geral de cada disciplina e as estatisticas em geral de todo o desempenho de cada aluno;
                               6. Tanto os professores e os alunos conseguirem ver os seus horários.
                               7. Um sistema de ranking onde os alunos ao serem avaliados iria serlhes atribuido pontuações consoatne a sua avaliação, e essas sua pontuação iria sendo atualizada sempre que o aluno fosse avaliado.
                               
@@ -70,10 +70,16 @@ Objetivos minimos:
 Objetivos medios:
 
               Objetivos da app seriam mais elevados onde os professores tambem puderiam fazer essa avaliação e edição das avaliações na app
-              O website e o sistema de ranking sera mais evoluido e gamificado basicamente teria mais um vertente como se fosse um jogo onde os alunos
-              por cada determinada avaliação teria um determinada avaliação que os levantava no ranking da escola como nos objetivos basicos mas teria tudo uma vertente mais virada para como se fosse um jogo
+              O website e o sistema de ranking sera mais evoluido e gamificado. Basicamente teria mais uma vertente como se fosse um jogo 
+              onde os alunos
+              por cada avaliação teria uma determinada cotação, que permitira a subida no ranking da escola como nos objetivos basicos 
+              mas teria tudo uma vertente mais virada para como se fosse um jogo
               onde os alunos iriam ser dividos por ranks e tudo teria mais um estilo como se fosse um jogo.
               Implementar uma area onde os professores fazem perguntas aos alunos sobre as aulas apra que eles consigam avaliações e pontuações extra
+              
+              Objetivos medios da app:
+                1. Os professores puderiam fazer avaliações e edição na app
+                2. 
               
               
 Objetivos avançados:
