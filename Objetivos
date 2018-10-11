@@ -34,10 +34,25 @@ Objetivos minimos:
                             Todos os utilizadores conseguirem consultar os seus horarios,disiciplinas e turmas e estaticias.
                             Professores conseguirem editar e avaliar os alunos nas aulas atraves do site.
                             
+                            Funcionalidades:
+                            
+                              1. Estar conectado a base de dados do servidor e fazer troca de dados;
+                              2. Ter a possibilidade dos professores em sala de aula avaliarem os alunos em 5 ou menos cliques;
+                              4. Ter a possibilidade dos professores editarem notas dos alunos alunos em 5 ou menos cliques;
+                              5. Os professores e alunos conseguriem verem a estatiticas/notas dadas em todas as vertentes em cada aula em particualar, tambem as estatisticas em geral de cada disciplina e as estatisticas em geral de todo o desempenho de cada aluno;
+                              6. Tanto os professores e os alunos conseguirem ver os seus horários.
+                              
+                            
                     Objetivos minimos da app:
                     
                             Ligar o site a base de dados e ao se atualizar dados no site seram dados tb atualizados na base de dados e app
                             Todos os utilizadores conseguirem consultar os seus horarios,disiciplinas e turmas e estaticias.
+                            
+                            Funcionalidades:
+                            
+                              1. Estar conectado a base de dados do servidor e fazer troca de dados;
+                              2. Os professores e alunos conseguriem verem a estatiticas/notas dadas em todas as vertentes em cada aula em particualar, tambem as estatisticas em geral de cada disciplina e as estatisticas em geral de todo o desempenho de cada aluno;
+                              3. Tanto os professores e os alunos conseguirem ver os seus horários. 
                             
                 3. Conectar a base de dados com o website e app
                 
@@ -57,6 +72,7 @@ Objetivos medios:
               por cada determinada avaliação teria um determinada avaliação que os levantava no ranking da escola como nos objetivos basicos mas teria tudo uma vertente mais virada para como se fosse um jogo
               onde os alunos iriam ser dividos por ranks e tudo teria mais um estilo como se fosse um jogo.
               Implementar uma area onde os professores fazem perguntas aos alunos sobre as aulas apra que eles consigam avaliações e pontuações extra
+              
               
 Objetivos avançados:
 
