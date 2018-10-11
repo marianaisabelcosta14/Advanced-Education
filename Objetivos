@@ -41,6 +41,7 @@ Objetivos minimos:
                               4. Ter a possibilidade dos professores editarem notas dos alunos alunos em 5 ou menos cliques;
                               5. Os professores e alunos conseguriem verem a estatiticas/notas dadas em todas as vertentes em cada aula em particualar, tambem as estatisticas em geral de cada disciplina e as estatisticas em geral de todo o desempenho de cada aluno;
                               6. Tanto os professores e os alunos conseguirem ver os seus horários.
+                              7. Um sistema de ranking onde os alunos ao serem avaliados iria serlhes atribuido pontuações consoatne a sua avaliação, e essas sua pontuação iria sendo atualizada sempre que o aluno fosse avaliado.
                               
                             
                     Objetivos minimos da app:
@@ -53,6 +54,7 @@ Objetivos minimos:
                               1. Estar conectado a base de dados do servidor e fazer troca de dados;
                               2. Os professores e alunos conseguriem verem a estatiticas/notas dadas em todas as vertentes em cada aula em particualar, tambem as estatisticas em geral de cada disciplina e as estatisticas em geral de todo o desempenho de cada aluno;
                               3. Tanto os professores e os alunos conseguirem ver os seus horários. 
+                              4. Um sistema de ranking onde os alunos ao serem avaliados iriam serlhes atribuído uma pontução cosoante cada avaliação, onde iriam subir ou descer no ranking da escola, onde a sua pontuação iria sendo atualizada sempre que o aluno fosse avaliado.
                             
                 3. Conectar a base de dados com o website e app
                 
