@@ -1,1 +1,79 @@
+Criação de Tabelas: 
 
+CREATE TABLE Aluno(
+nr_aluno int (9) NOT NULL,
+nr_user int (9) NOT NULL,
+PRIMARY KEY(nr_aluno),
+FOREIGN KEY (nr_user)
+REFERENCES utilizador (nr_user));
+
+
+CREATE TABLE Docente(
+nr_docente int (9) NOT NULL,
+nr_de_user int (9) NOT NULL,
+características_do_trabalho_do_docente varchar(255),
+PRIMARY KEY (nr_docente));
+
+
+CREATE TABLE Tipo_User(
+nr_tipo_user int(9) NOT NULL,
+nome_de_tipo_user varchar(255),
+PRIMARY KEY (nr_tipo_user));
+
+CREATE TABLE User(
+nr_user int (9) NOT NULL,
+nome_do_user varchar(255),
+email_do_user varchar(255),
+password varchar(255),
+tipo_user int (9) NOT NULL,
+PRIMARY KEY (nr_user),
+FOREIGN KEY (tipo_user),
+REFERENCES Tipo_User (nr_tipo_user));
+
+CREATE TABLE Disciplina_docente(
+ nr_disciplina_docente int (9)  NOT NULL, 
+nr_disciplina int (9)  NOT NULL,
+ nr_docente int (9)  NOT NULL,
+ PRIMARY KEY (nr_disciplina_docente), 
+FOREIGN KEY (nr_disciplina) REFERENCES Disciplina(nr_discilina),
+ FOREIGN KEY (nr_docente) REFERENCES Docente(nr_docente));
+
+CREATE TABLE Disciplina(
+nr_disciplina int (9) NOT NULL,
+nome_disciplina varchar(255),
+nr_curso int (9) NOT NULL,
+PRIMARY KEY (nr_disciplina),
+FOREIGN KEY (nr_curso) REFERENCES Curso (nr_curso));
+
+CREATE TABLE Curso(
+nr_curso int(9) NOT NULL,
+nome_curso varchar(255),
+PRIMARY KEY (nr_curso));
+
+CREATE TABLE Disciplina_aluno(
+nr_disciplina_aluno int(9) NOT NULL,
+nr_disciplina int(9)NOT NULL,
+nr_aluno int(9)NOT NULL,
+PRIMARY KEY (nr_disciplina_aluno)
+FOREIGN KEY (nr_disciplina) REFERENCES Disciplina (nr_disciplina),
+FOREIGN KEY (nr_aluno) REFERENCES Aluno (nr_aluno));
+
+CREATE TABLE missao(
+nr_missao int(9)NOT NULL,
+nome_missao varchar (255),
+nr_tipo_missao int (9) NOT NULL,
+PRIMARY KEY (nr_missao),
+FOREIGN KEY (nr_tipo_missao) REFERENCES Tipo_missao (nr_tipo_missao));
+
+CRATE TABLE tipo_missao(
+nr_tipo_missao int(9) NOT NULL,
+dificuldade_missao varchar(255),
+nome_tipo_missao varchar (255),
+PRIMARY KEY (nr_tipo_missao));
+
+CREATE TABLE score(
+nr_score int(9) NOT NULL,
+nr_aluno int(9) NOT NULL,
+pontuação_missao int(9)NOT NULL,
+PRIMARY KEY (nr_score),
+FOREIGN KEY (nr_aluno) REFERENCES Aluno (nr_aluno));
