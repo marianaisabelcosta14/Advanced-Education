@@ -31,12 +31,12 @@ FOREIGN KEY (tipo_user),
 REFERENCES Tipo_User (nr_tipo_user));
 
 CREATE TABLE Disciplina_docente(
- nr_disciplina_docente int (9)  NOT NULL, 
+nr_disciplina_docente int (9)  NOT NULL, 
 nr_disciplina int (9)  NOT NULL,
- nr_docente int (9)  NOT NULL,
- PRIMARY KEY (nr_disciplina_docente), 
+nr_docente int (9)  NOT NULL,
+PRIMARY KEY (nr_disciplina_docente), 
 FOREIGN KEY (nr_disciplina) REFERENCES Disciplina(nr_discilina),
- FOREIGN KEY (nr_docente) REFERENCES Docente(nr_docente));
+FOREIGN KEY (nr_docente) REFERENCES Docente(nr_docente));
 
 CREATE TABLE Disciplina(
 nr_disciplina int (9) NOT NULL,
